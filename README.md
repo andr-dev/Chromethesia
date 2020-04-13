@@ -1,6 +1,6 @@
 <img src="https://github.com/andr-dev/Chromethesia/raw/master/tab-icon.png" width="128" height="128" />
 
-# Chromesthesia
+# Chromethesia
 
 > A lightweight chrome extension to induce synesthetic experiences in non-synesthetic subjects.
 
@@ -8,7 +8,7 @@
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-Chromesthesia is a chrome extension currently being tested to see if synesthetic experiences can be induced in people who do not have synesthesia by simply browsing the web!
+Chromethesia is a chrome extension currently being tested to see if synesthetic experiences can be induced in people who do not have synesthesia by simply browsing the web!
 
 ## Examples
 
@@ -26,7 +26,7 @@ I found this discovery to be super interesting so I thought about how I could te
 
 ### About the name
 
-Yes, I know that Chromesthesia is another type of synesthesia in which sound evokes an experience of color in the subject however I couldn't let a name like Chromesthesia slip away so whoops 😄.
+Yes, I know that Chromesthesia is another type of synesthesia in which sound evokes an experience of color in the subject however I couldn't let a name like Chromethesia slip away so whoops 😄.
 
 ## Installation
 
@@ -41,7 +41,7 @@ No additional setup is required.
 
 ### Method #2 (Customize the 🎨 Color Palette)
 
-Currently, the color values are hard coded into a file called background.js in a data table at the top of the file. First, download the source code of the latest release found at https://github.com/andr-dev/Chromethesia/releases. Extract the zip and open a file called background.js with a code editor. Edit the hex color values to your preference and then save the file. To install the extension, go to chrome://extensions/ and enable the "Developer Mode" toggle in the top right corner. Then, select load unpacked and select the extracted folder where you made the edits. Chromesthesia should now be installed!
+Currently, the color values are hard coded into a file called background.js in a data table at the top of the file. First, download the source code of the latest release found at https://github.com/andr-dev/Chromethesia/releases. Extract the zip and open a file called background.js with a code editor. Edit the hex color values to your preference and then save the file. To install the extension, go to chrome://extensions/ and enable the "Developer Mode" toggle in the top right corner. Then, select load unpacked and select the extracted folder where you made the edits. Chromethesia should now be installed!
 
 ## Contributing
 
@@ -61,7 +61,7 @@ Currently, the color values are hard coded into a file called background.js in a
 
 ### Step 3
 
-- Create a new pull request 🔁 using <a href="https://github.com/andr-dev/Chromesthesia/compare/" target="_blank">`https://github.com/andr-dev/Chromesthesia/compare/`</a>.
+- Create a new pull request 🔁 using <a href="https://github.com/andr-dev/Chromethesia/compare/" target="_blank">`https://github.com/andr-dev/Chromethesia/compare/`</a>.
 
 ## Support
 
