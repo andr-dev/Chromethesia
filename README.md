@@ -66,3 +66,10 @@ Currently, the color values are hard coded into a file called background.js in a
 ## Support
 
 If you have any issues, open up a new issue and I'll get to it as soon as possible!
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](https://github.com/andr-dev/Chromethesia/raw/master/LICENSE.md)**
+- Copyright 2020 © <a href="http://github.com/andr-dev" target="_blank">Andre Benedito</a>.
