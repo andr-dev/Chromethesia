@@ -67,6 +67,10 @@ Currently, the color values are hard coded into a file called background.js in a
 
 If you have any issues, open up a new issue and I'll get to it as soon as possible!
 
+## Credits
+
+Special thanks to Johann Burkard for creating <a href="https://github.com/andr-dev/Chromethesia/raw/master/highlight_class_version.js">highlight_class_version.js</a> and for allowing its use in other projects with an MIT license. You can find him at http://johannburkard.de.
+
 ## License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
